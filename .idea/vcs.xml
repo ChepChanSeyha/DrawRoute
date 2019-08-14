@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ButtomNavigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoogleLocation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MapAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NestedScrollView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StartActivityForResult" vcs="Git" />
+  </component>
+</project>
